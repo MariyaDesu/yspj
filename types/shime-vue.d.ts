@@ -1,0 +1,1 @@
+declare module 'approval-flow/approval-flow.umd.min.js'
